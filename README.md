@@ -21,7 +21,7 @@ The following Python libraries are required:
 - matplotlib
 - seaborn
 - yfinance
-- statsmodels
+
 
 ## How It Works
 
