@@ -2,7 +2,7 @@
 
 **Pairs Trading Strategy for Indian Bank Stocks**
 
-
+Overview
 
 This readme section contains the comprehensive implementation of a statistical arbitrage strategy using pairs trading between HDFC Bank and Axis Bank stocks from the National Stock Exchange (NSE) of India. The strategy leverages the statistical relationship between these correlated securities to generate market-neutral returns.
 
